@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=MoonlightMelody by dandyfarid @ xda-developers
+kernel.string=StarDiamond by dandyfarid @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
